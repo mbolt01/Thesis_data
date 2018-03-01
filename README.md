@@ -1,2 +1,4 @@
-# Thesis_data
-Data used within thesis
+# Thesis data
+Data used within thesis.
+- NPL Audit data.
+- Beam output data.
